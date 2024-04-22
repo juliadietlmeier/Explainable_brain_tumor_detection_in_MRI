@@ -1,3 +1,9 @@
+"""
+Created on Sat Apr 20 07:32:18 2024
+
+@author: <julia.dietlmeier@insight-centre.org>
+"""
+
 import numpy as np
 
 def dice(pred, true, k = 1):
