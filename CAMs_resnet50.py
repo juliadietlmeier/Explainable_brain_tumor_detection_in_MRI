@@ -20,9 +20,9 @@ import glob
 import random
 import torch.nn.utils.prune as prune
 from tqdm.auto import tqdm
-from EigenCAM import EigenCAM
-from lct import LCT_original
-from GaussianCT import GaussianCT
+from eigenCAM.EigenCAM import EigenCAM
+from attention.lct import LCT_original
+from attention.GaussianCT import GaussianCT
 
 ImageFile.LOAD_TRUNCATED_IMAGES = True
 
