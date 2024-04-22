@@ -9,5 +9,13 @@ Classification networks pre-trained on ImageNet and RadImageNet for expainable b
 
 Qualitative results so far:
 
-![image](https://github.com/juliadietlmeier/Explainable_brain_tumor_detection/assets/79544193/2d7cee1e-0e06-4c6b-922d-189eea76d5be)
+![image](https://github.com/juliadietlmeier/Explainable_brain_tumor_detection/assets/79544193/5c7417a6-0d2e-41d5-86ef-368635ca2bc6)
 
+
+We finetune B0 and B1. We train from scratch B2
+
+Heatmap resolution (B0) = 
+
+Heatmap resolution (B1) = 
+
+heatmap resolution (B2) = 
