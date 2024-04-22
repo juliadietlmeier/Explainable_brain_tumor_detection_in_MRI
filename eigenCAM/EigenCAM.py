@@ -3,7 +3,8 @@
 """
 Created on Sun Apr 21 13:10:42 2024
 
-@author: daa
+@author: <julia.dietlmeier@insight-centre.org>
+the code is from https://github.com/jacobgil/pytorch-grad-cam
 """
 from BaseCAM import BaseCAM
 from svd_on_activations import get_2d_projection
