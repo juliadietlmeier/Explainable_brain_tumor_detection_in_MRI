@@ -20,7 +20,7 @@ import glob
 import random
 import torch.nn.utils.prune as prune
 from tqdm.auto import tqdm
-from EigenCAM import EigenCAM
+from eigenCAM.EigenCAM import EigenCAM
 
 ImageFile.LOAD_TRUNCATED_IMAGES = True
 
