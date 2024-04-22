@@ -14,8 +14,8 @@ Qualitative results so far:
 
 We finetune B0 and B1. We train from scratch B2
 
-Heatmap resolution (B0) = 
+Heatmap resolution (B0) = 14 x 14
 
-Heatmap resolution (B1) = 
+Heatmap resolution (B1) = 14 x 14
 
-heatmap resolution (B2) = 
+heatmap resolution (B2) = 107 x 107
