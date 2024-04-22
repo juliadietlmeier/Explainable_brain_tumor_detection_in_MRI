@@ -6,3 +6,6 @@ Classification networks pre-trained on ImageNet and RadImageNet for expainable b
 *RadImageNet pretrained Backbone 1: CAMs_resnet50_RadImageNet.py*
 
 *B2 trained from scratch: CAMs_B2_from_scratch.py*
+
+![image](https://github.com/juliadietlmeier/Explainable_brain_tumor_detection/assets/79544193/2d7cee1e-0e06-4c6b-922d-189eea76d5be)
+
