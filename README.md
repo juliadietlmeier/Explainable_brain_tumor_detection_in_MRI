@@ -10,9 +10,9 @@ https://figshare.com/articles/brain_tumor_dataset/1512427
 
 *B2 trained from scratch: CAMs_B2_from_scratch.py*
 
-Architecture (B0 and B1 are the same I think)
+Proposed Architecture
 
-![image](https://github.com/juliadietlmeier/Explainable_brain_tumor_detection/assets/79544193/84a3c338-221c-4fe4-bd66-4f2851a5c927)
+![image](https://github.com/juliadietlmeier/Explainable_brain_tumor_detection/assets/79544193/7dc758ab-9733-4257-93e0-2ec0900249ca)
 
 
 Qualitative results so far:
