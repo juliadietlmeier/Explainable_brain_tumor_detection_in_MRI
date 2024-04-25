@@ -6,7 +6,7 @@ https://figshare.com/articles/brain_tumor_dataset/1512427
 
 *ImageNet pretrained Backbone 0: CAMs_resnet50.py*
 
-*RadImageNet pretrained Backbone 1: CAMs_resnet50_RadImageNet.py*
+*RadImageNet pretrained Backbone 0: CAMs_resnet50_RadImageNet.py*
 
 *B2 trained from scratch: CAMs_B2_from_scratch.py*
 
