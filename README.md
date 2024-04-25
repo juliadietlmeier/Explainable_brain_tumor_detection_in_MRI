@@ -12,7 +12,7 @@ https://figshare.com/articles/brain_tumor_dataset/1512427
 
 Proposed Architecture of the XAI-Net:
 
-![image](https://github.com/juliadietlmeier/Explainable_brain_tumor_detection/assets/79544193/7dc758ab-9733-4257-93e0-2ec0900249ca)
+![image](https://github.com/juliadietlmeier/Explainable_brain_tumor_detection_in_MRI/assets/79544193/c24f94f8-7078-4cc3-a0ef-95baea12dff1)
 
 
 Qualitative results so far:
