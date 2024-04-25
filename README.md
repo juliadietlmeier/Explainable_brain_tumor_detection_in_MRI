@@ -1,4 +1,4 @@
-# Explainable_brain_tumor_detection
+# Explainable_brain_tumor_detection_in_MRI
 Classification networks pre-trained on ImageNet and RadImageNet for expainable brain tumor detection on the Cheng et al. dataset
 
 Cheng et al. dataset can be downloaded from:
