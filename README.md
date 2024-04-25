@@ -10,7 +10,7 @@ https://figshare.com/articles/brain_tumor_dataset/1512427
 
 *B2 trained from scratch: CAMs_B2_from_scratch.py*
 
-Proposed Architecture
+Proposed Architecture of the XAI-Net:
 
 ![image](https://github.com/juliadietlmeier/Explainable_brain_tumor_detection/assets/79544193/7dc758ab-9733-4257-93e0-2ec0900249ca)
 
