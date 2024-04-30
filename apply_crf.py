@@ -1,10 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 24 14:41:45 2024
 
-@author: daa
-"""
 import numpy 
 import pydensecrf.densecrf as dcrf
 
@@ -45,40 +41,3 @@ def apply_crf(im, pred):
   res = numpy.argmax(processed, axis=0).reshape(im.shape[:2])
 
   return res 
-
-#img=cv2.imread('crf_img.jpg')
-#pred=cv2.imread('crf_pred_mask.jpg')
-
-
-#image=img
-#pred=pred_mask
-
-#footprint = disk(6)
-#dilated = dilation(pred_mask, footprint)
-#plot_comparison(pred_mask, dilated, 'dilation')
-
-#kX=45
-#kY=45
-#pred=cv2.GaussianBlur(dilated, (kX, kY), 0)
-#probs = (pred-numpy.min(pred))/(numpy.max(pred)-numpy.min(pred))
-#probs = numpy.tile(probs[numpy.newaxis,:,:],(2,1,1))
-#probs[1,:,:] = 1 - probs[0,:,:]
-
-#result=apply_crf(image,probs)
-
-"=============================================================================="
-
-#contours = measure.find_contours(result, 0)
-#cont=contours[0]
-
-#gtc = measure.find_contours(mask[:,:,0], 0.5)
-#gt=gtc[0]
-
-#fig, ax = plt.subplots(figsize=(7, 7))
-#ax.imshow(image, cmap=plt.cm.gray)
-#ax.plot(cont[:,1],cont[:,0],'--r')
-#ax.plot(gt[:,1],gt[:,0],'-y')
-
-
-
-
