@@ -25,10 +25,6 @@ def plot_comparison(original, filtered, filter_name):
 
 def apply_crf(im, pred):
   im = numpy.ascontiguousarray(im)
-  #if im.shape[:2] != pred.shape[:2]:
-  #  im = imresize(im, pred.shape[:2])
-
-  #pred = numpy.ascontiguousarray(pred.swapaxes(0, 2).swapaxes(1, 2))
 
   d = dcrf.DenseCRF2D(im.shape[1], im.shape[0], 2)  # width, height, nlabels
   
