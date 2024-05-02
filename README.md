@@ -6,6 +6,8 @@ https://figshare.com/articles/brain_tumor_dataset/1512427
 
 Just run *train_XAIMed_Net.py* training script where you can select the corresponding model
 
+Then run *compute_metrics.py*
+
 Proposed Architecture of the **XAIMed-Net**:
 
 ![image](https://github.com/juliadietlmeier/Explainable_brain_tumor_detection_in_MRI/assets/79544193/caf5edb9-cb42-41b0-8db0-e035d7210a5f)
