@@ -15,6 +15,7 @@ Proposed Architecture of the **XAIMed-Net**:
 
 Qualitative results so far:
 
+![image](https://github.com/juliadietlmeier/Explainable_brain_tumor_detection_in_MRI/assets/79544193/a9d4ca60-872d-4fbd-bd8a-79ebcd4c1c1e)
 
 
 We finetune B0 and B1. We train from scratch B2
