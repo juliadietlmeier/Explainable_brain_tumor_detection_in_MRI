@@ -4,11 +4,7 @@ Classification networks pre-trained on ImageNet and RadImageNet for expainable b
 Cheng et al. dataset can be downloaded from:
 https://figshare.com/articles/brain_tumor_dataset/1512427
 
-*ImageNet pretrained Backbone 0: CAMs_resnet50.py*
-
-*RadImageNet pretrained Backbone 0: CAMs_resnet50_RadImageNet.py*
-
-*B2 trained from scratch: CAMs_B2_from_scratch.py*
+Just run *train_XAIMed_Net.py* training script where you can select the corresponding model
 
 Proposed Architecture of the **XAIMed-Net**:
 
