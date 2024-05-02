@@ -6,6 +6,8 @@ https://figshare.com/articles/brain_tumor_dataset/1512427
 
 Just run *train_XAIMed_Net.py* training script where you can select the corresponding model
 
+**To use CRF install pydensecrf**
+
 Then run *compute_metrics.py*
 
 Proposed Architecture of the **XAIMed-Net**:
