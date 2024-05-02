@@ -21,7 +21,6 @@ import random
 import torch.nn.utils.prune as prune
 from tqdm.auto import tqdm
 from eigenCAM.EigenCAM import EigenCAM
-from score_cam import ScoreCAM
 from skimage.morphology import erosion, dilation, opening, closing, white_tophat  # noqa
 from skimage.morphology import black_tophat, skeletonize, convex_hull_image  # noqa
 from skimage.morphology import disk  # noqa
