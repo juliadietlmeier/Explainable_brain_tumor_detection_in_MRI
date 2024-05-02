@@ -23,9 +23,3 @@ Second row: SEA1 ImageNet
 Third row: SEA3 RadImageNet
 
 Last row: B2-Net trained from scratch
-
-Heatmap resolution (B0) = 14 x 14
-
-Heatmap resolution (B1) = 14 x 14
-
-heatmap resolution (B2) = 107 x 107
