@@ -29,7 +29,7 @@ from models import resnet50only, SEA3_resnet50, SEA2_resnet50, SEA1_resnet50, B2
 import glob
 from seg_acc_metrics import seg_acc
 import math
-from apply_crf import apply_crf
+from computeCRF import computeCRF
 
 device="cuda"
 seed = 42
