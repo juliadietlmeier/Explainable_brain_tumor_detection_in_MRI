@@ -3,7 +3,7 @@
 """
 Created on Tue Nov 28 12:32:14 2023
 
-@author: daa
+@author: https://github.com/changzy00/pytorch-attention
 """
 #Gaussian Context Transformer
 import torch
