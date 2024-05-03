@@ -264,8 +264,8 @@ class B2_Net(nn.Module):
         x = self.myfc1(x)
         x = self.relu(x)
         x = self.myfc2(x)
-        
-        return x
+        output =  F.softmax(x,dim=1)
+        return output
     
 def SEA3_resnet50_RadImageNet():
     mod11 = nn.Sequential(mod_R,ConvHead())
