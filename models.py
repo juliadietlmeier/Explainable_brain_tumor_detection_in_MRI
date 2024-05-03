@@ -12,7 +12,7 @@ from torchvision import models
 import torch.nn.functional as F
 import numpy as np
 from torch.autograd import Variable
-from GaussianCT import GaussianCT
+from attention.GaussianCT import GaussianCT
 
 device="cuda"
 
