@@ -26,3 +26,10 @@ Second row: SEA1 ImageNet
 Third row: SEA3 RadImageNet
 
 Last row: B2-Net trained from scratch
+
+
+**Acknowledging this work**
+
+If you would like to cite our work, please use the following reference:
+
+Oluwabukola Adegboro, Vayangi Ganepola, Julia Dietlmeier, Claudia Mazo, Noel E. O'Connor. "XAIMed-Net: Towards Explainable Brain Tumour Detection in 2D T1-weighted CE-MRI Images Using Transfer Learning". 26th Irish Machine Vision and Image Processing Conference, University of Limerick, Ireland. August 21st, 2024 - August 23rd, 2024.
