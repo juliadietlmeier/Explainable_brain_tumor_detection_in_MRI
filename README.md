@@ -4,6 +4,8 @@ Classification networks pre-trained on ImageNet and RadImageNet for expainable b
 Cheng et al. dataset can be downloaded from:
 https://figshare.com/articles/brain_tumor_dataset/1512427
 
+**RadImageNet PyTorch ResNet50 weights can be downloaded from:** https://github.com/BMEII-AI/RadImageNet
+
 Just run *train_XAIMed_Net.py* training script where you can select the corresponding model
 
 **To use CRF install pydensecrf**
