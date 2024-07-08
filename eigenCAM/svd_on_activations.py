@@ -3,7 +3,6 @@
 """
 Created on Sun Apr 21 13:12:30 2024
 
-@author: daa
 """
 import numpy as np
 
