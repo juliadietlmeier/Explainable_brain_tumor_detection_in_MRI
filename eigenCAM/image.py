@@ -3,7 +3,6 @@
 """
 Created on Sun Apr 21 13:14:17 2024
 
-@author: daa
 """
 import matplotlib
 from matplotlib import pyplot as plt
