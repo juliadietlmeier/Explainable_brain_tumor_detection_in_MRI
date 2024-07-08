@@ -27,6 +27,7 @@ Third row: SEA3 RadImageNet
 
 Last row: B2-Net trained from scratch
 
+**EgenCAM code** is adapted from https://github.com/jacobgil/pytorch-grad-cam
 
 **Acknowledging this work**
 
