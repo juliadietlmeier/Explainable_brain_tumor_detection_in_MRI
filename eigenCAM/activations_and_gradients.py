@@ -3,7 +3,6 @@
 """
 Created on Sun Apr 21 13:13:24 2024
 
-@author: daa
 """
 class ActivationsAndGradients:
     """ Class for extracting activations and
