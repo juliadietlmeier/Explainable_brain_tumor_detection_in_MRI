@@ -3,7 +3,6 @@
 """
 Created on Sun Apr 21 13:39:18 2024
 
-@author: daa
 """
 import torch
 import torch.nn as nn
